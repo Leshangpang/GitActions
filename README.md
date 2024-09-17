@@ -1,2 +1,2 @@
 # GitActions
-Testing repo
+Testing repository
